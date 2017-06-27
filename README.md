@@ -1,3 +1,5 @@
+Practice from Udemy course Testing Angular 4 and Angular 2 with Mosh
+
 # TestingDemo
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.26.
